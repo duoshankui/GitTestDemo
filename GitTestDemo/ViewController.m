@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    UIButton *gitBtn = [[UIButton alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
+    [gitBtn setBackgroundColor:[UIColor redColor]];
+    [self.view addSubview:gitBtn];
 }
 
 
