@@ -14,7 +14,6 @@
 		2806AD5E2046A0B6000473EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2806AD5C2046A0B6000473EA /* LaunchScreen.storyboard */; };
 		2806AD612046A0B6000473EA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2806AD602046A0B6000473EA /* main.m */; };
 		28A6FCAD2046A39500AE8764 /* NewAddClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 28A6FCAC2046A39500AE8764 /* NewAddClass.m */; };
-		6EE6147C2047CAB200C4E4FC /* CCLView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EE6147B2047CAB200C4E4FC /* CCLView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +29,6 @@
 		2806AD602046A0B6000473EA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		28A6FCAB2046A39500AE8764 /* NewAddClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewAddClass.h; sourceTree = "<group>"; };
 		28A6FCAC2046A39500AE8764 /* NewAddClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewAddClass.m; sourceTree = "<group>"; };
-		6EE6147A2047CAB200C4E4FC /* CCLView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CCLView.h; sourceTree = "<group>"; };
-		6EE6147B2047CAB200C4E4FC /* CCLView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CCLView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,8 +72,6 @@
 				2806AD602046A0B6000473EA /* main.m */,
 				28A6FCAB2046A39500AE8764 /* NewAddClass.h */,
 				28A6FCAC2046A39500AE8764 /* NewAddClass.m */,
-				6EE6147A2047CAB200C4E4FC /* CCLView.h */,
-				6EE6147B2047CAB200C4E4FC /* CCLView.m */,
 			);
 			path = GitTestDemo;
 			sourceTree = "<group>";
@@ -154,7 +149,6 @@
 			files = (
 				2806AD562046A0B6000473EA /* ViewController.m in Sources */,
 				28A6FCAD2046A39500AE8764 /* NewAddClass.m in Sources */,
-				6EE6147C2047CAB200C4E4FC /* CCLView.m in Sources */,
 				2806AD612046A0B6000473EA /* main.m in Sources */,
 				2806AD532046A0B6000473EA /* AppDelegate.m in Sources */,
 			);
