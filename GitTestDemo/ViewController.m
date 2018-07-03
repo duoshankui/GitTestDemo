@@ -22,9 +22,6 @@
     UIButton *gitBtn = [[UIButton alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
     [gitBtn setBackgroundColor:[UIColor redColor]];
     [self.view addSubview:gitBtn];
-    [gitBtn2 setBackgroundColor:[UIColor blueColor]];
-    [self.view addSubview:gitBtn2];
-
 }
 
 
